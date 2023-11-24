@@ -12,7 +12,7 @@
 ## About Me
 <div align="left">
   
-  📖 : BSc. In CSE At Premier University<br>
+  📖 : BSc. in CSE at Premier University<br>
   
   🌱 : Exploring Aspects Of Life
 
