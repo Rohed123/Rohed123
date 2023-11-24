@@ -9,7 +9,7 @@ Hi There , I'm Rohed Ove<br>
 
 ---
 
-<div align="center">
+<div align="center" style="font-size:50px">
   About Me
 </div>
 
