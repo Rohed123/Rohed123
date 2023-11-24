@@ -9,6 +9,17 @@ Hi There , I'm Rohed Ove<br>
 
 ---
 
+<div align="center">
+  About Me
+</div>
+
+<div align="left">
+  📖 : BSc. In CSE At Premier University<br>
+  🌱 : Exploring Aspects Of Life
+</div>
+
+
+
 <!--
 **Rohed123/Rohed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
