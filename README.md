@@ -1,7 +1,7 @@
 <div align="center">
-** Hi There , I'm Rohed Ove **<br>
+<b>Hi There , I'm Rohed Ove<br>
 
-  & I'm A<br>
+  & I'm A</b><br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Web+Developer;Graphics+Designer)](https://git.io/typing-svg)
 
