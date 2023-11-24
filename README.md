@@ -13,6 +13,7 @@ Hi There , I'm Rohed Ove<br>
 <div align="left">
   
   📖 : BSc. In CSE At Premier University<br>
+  
   🌱 : Exploring Aspects Of Life
 </div>
 
