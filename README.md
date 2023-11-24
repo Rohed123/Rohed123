@@ -27,6 +27,7 @@ Hi There , I'm Rohed Ove<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 </div>
 
+---
 
 <!--
 **Rohed123/Rohed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
