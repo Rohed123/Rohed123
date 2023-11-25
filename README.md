@@ -14,9 +14,9 @@
   
   📖 : BSc. in CSE at Premier University<br>
   
-  🌱 : Exploring Aspects Of Life
+  🍁 : Exploring Aspects Of Life
 
-  🤠 : Photography & Travelling
+  🚲 : Photography & Travelling
 </div>
 
 ---
