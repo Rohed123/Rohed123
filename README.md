@@ -32,11 +32,19 @@
 
 ---
 
+## Where to find me
+<div>
+[![Linkedin](https://www.linkedin.com/in/rohed-ove) 
+[![Facebook](https://www.facebook.com/rohed.ove.12)
+[![Instagram](https://www.instagram.com/rohed_ove/)
+[![Codeforces]()
+</div>
+
+---
+
 <!--
 **Rohed123/Rohed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
