@@ -33,7 +33,8 @@
 ---
 
 ## My States
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RohedOve&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RohedOve&theme=tokyonight&card_width=700)](https://git.io/streak-stats)
 
 ---
 
