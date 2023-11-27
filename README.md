@@ -32,6 +32,11 @@
 
 ---
 
+## My States
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RohedOve&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## Where To Find Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohed-ove/)
