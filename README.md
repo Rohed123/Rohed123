@@ -8,13 +8,14 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761115r2h5da4u3cp814turagui6va4cjj5s5yikhs7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761115r2h5da4u3cp814turagui6va4cjj5s5yikhs7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230"/>
 </div>
 
 ---
+<div align="center">
 
 ## About Me
-<div align="center">
+
   I'm a passionate graphics designer with a knack for visual storytelling. <br>
   I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer. <br>
   My work bridges creativity and precision, aiming to make every project visually compelling.
