@@ -1,27 +1,23 @@
 <div align="center">
-<b>Hi There , I'm Rohed Ove</b><br>
 
-  & I'm A</b><br>
+### <div align="center">Hi There, I'm Rohed Ove & I'm A
+
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Web+Developer;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Web+Developer;Graphics+Designer)](https://git.io/typing-svg)
 
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761115r2h5da4u3cp814turagui6va4cjj5s5yikhs7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
 ---
 
 ## About Me
-<div align="left">
-  
-  📖 : BSc. in CSE at Premier University<br>
-  
-  🍁 : Exploring Aspects Of Life
-
-  🚲 : Photography & Travelling
-</div>
+<div align="center">
+  I'm a passionate graphics designer with a knack for visual storytelling. <br>
+  I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer. <br>
+  My work bridges creativity and precision, aiming to make every project visually compelling.
 
 ---
 ## Languages and Tools
@@ -63,11 +59,6 @@
 
 </div>
 
-<!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohed-ove/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rohed.ove.12/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Rohed_Ove)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Rohed.Ove)
-[![Codeforces](https://img.shields.io/badge/Instragram-purple?style=flat-square&logo=Codeforces&logoColor=white)](https://www.instagram.com/rohed_ove)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rohedove123)
---
+---
+
 
