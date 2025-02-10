@@ -3,7 +3,7 @@
 ### <div align="center">Hi There, I'm Rohed Ove & I'm A
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Web+Developer;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Web+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-  I'm a passionate graphics designer with a knack for visual storytelling. <br>
+  I'm a passionate graphic designer with a knack for visual storytelling. <br>
   I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer. <br>
   My work bridges creativity and precision, aiming to make every project visually compelling.
 
